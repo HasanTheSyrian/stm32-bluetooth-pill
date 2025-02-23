@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2450 LPF")(type "KiCad")(uri "${KIPRJMOD}/Assets/2450LP14A100T.kicad_sym")(options "")(descr ""))
+  (lib (name "LM3940 LDO")(type "KiCad")(uri "${KIPRJMOD}/Assets/LM3940IMP-3_3_NOPB.kicad_sym")(options "")(descr ""))
+)
